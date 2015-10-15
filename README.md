@@ -13,10 +13,8 @@ helloPay was also created for businesses, offering flexible payment options to y
 
 The helloPay PHP SDK can be installed with [Composer](https://getcomposer.org/). Add the helloPay PHP SDK package to your composer.json file.
 ```json
-{
-    "require": {
-        "hellopay/php-sdk": "dev-master"
-    }
+{ 
+  "require": { "hellopay/php-sdk": "dev-master" } 
 }
 ```
 
